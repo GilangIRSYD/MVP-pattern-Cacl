@@ -1,1 +1,1 @@
-# Example for implementation Design Pattern MVP
+#### an example of implementing the MVP design pattern
